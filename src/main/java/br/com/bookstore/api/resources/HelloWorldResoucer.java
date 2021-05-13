@@ -13,6 +13,6 @@ public class HelloWorldResoucer {
     
     @GET
     public String helloWorldMensagem() {
-        return "Hello World Web Services em Java";
+        return "hello World Web Services em Java";
     }
 }
