@@ -1,6 +1,7 @@
 
-package br.com.bookstore.api.resources;
+package br.com.bookstore.api.helloworld;
 
+import br.com.bookstore.api.resources.*;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
@@ -13,6 +14,6 @@ public class HelloWorldResoucer {
     
     @GET
     public String helloWorldMensagem() {
-        return "hello World Web Services em Java";
+        return "hello World Web Services em Java / testa ";
     }
 }
