@@ -1,7 +1,5 @@
-
 package br.com.bookstore.api.helloworld;
 
-import br.com.bookstore.api.resources.*;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 

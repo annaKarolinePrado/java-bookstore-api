@@ -5,7 +5,7 @@
     <artifactId>bookstore-api</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
-    <name>bookstore-api-1.0.0</name>
+    <name>bookstore-api</name>
     
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
